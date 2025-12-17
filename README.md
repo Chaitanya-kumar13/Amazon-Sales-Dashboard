@@ -50,4 +50,4 @@
   
 # 📌 Screenshots / Demos :
   Dashboard overview, KPI cards, sales trends, top products, category analysis, and region-wise performance visuals.
-  Link : 
+  Link : https://github.com/Chaitanya-kumar13/Amazon-Sales-Dashboard/blob/main/Amazon%20Dashboard.png
